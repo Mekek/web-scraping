@@ -1,0 +1,4 @@
+{
+    "API_KEY": "ваш_api_ключ",
+    "CHROMEDRIVER_PATH": "C:\\chromedriver-win64\\chromedriver.exe"
+}

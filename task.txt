@@ -1,0 +1,61 @@
+У меня ест два csv-файла: collected_data.csv и average_inventory.csv.
+Тебе нужно создать датасет, содержащий  записи из таблицы collected_data.csv, в которых  в столбце Legal Description содержится номер из таблицы  average_inventory.csv (из столбца Parcel Number).
+
+Пример значения в Legal Description:
+Lt/Un  16 WOODBINE PLACE SUBD Pcl# 010-078479-00 Plt  PB 18 PG 42
+
+Пример значения из Parcel Number:
+010-078479-00
+
+
+From the list below, identify which names are not names of people:
+KAYE ERIKA
+LLOYD DEBORAH E
+CLARK ERRIN
+SICILIAN NICHOLAS J
+MEEKINS JOHN O III
+SHINDEL HAROLD L
+DUSENBERY JOY L
+PATTON LINDSAY
+BRESSMAN BENJAMIN A
+ENNIS JOHN
+MEADE DANNY R
+FARRIS KRYSTINA
+REESE KIMBERLY L
+SECKMAN ROBERT L
+CASAGRANDE BRENT A
+HENDERSON CLENTON H
+WINFIELD ELLA E
+CASSIDY MARY K
+TORMA BRIAN M
+GONZALEZ BRENDA
+ASH JASON R
+JACKSON-BLACK DAVINA
+MCKEAN NICOLE L
+CB
+WATTS ROBERT
+MCCURDY CARRIE A
+STERBA JOHN E
+HINES ROBERT E
+MCGOVERN SEAN
+DENNIS JOSEPHOUS
+GEBERT KELLY M
+UPDIKE MICHAEL D
+ZHANG SHUIWEN
+MAJID LEI A
+SULLIVAN RYAN MICHAEL
+DUVALL JAMES
+SCHAFFRIN BURKHARD A
+KIM ANGELA RAE
+TVERGYAK DAVID S
+KURTZ KELLI L
+MARETTE ANTHONY
+BRINING TIFFANY
+ADAMS BENJAMIN JOEL
+LEFFLER WILLIAM W
+STEED CAROL A
+CHUPP KAITLYN
+OGG ALFRED O JR
+LEE JODY S MASSERIA
+
+Provide a only list of names that do not belong to people, without any other words.
